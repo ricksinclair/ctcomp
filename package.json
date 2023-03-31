@@ -1,0 +1,26 @@
+{
+  "name": "ctcomp",
+  "version": "1.0.0",
+  "description": "A util to make react tsx components with scss modules quickly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricksinclair/ctcomp.git"
+  },
+  "keywords": [
+    "react",
+    "scss",
+    "components",
+    "modules",
+    "typescript"
+  ],
+  "author": "Ulric S Todman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricksinclair/ctcomp/issues"
+  },
+  "homepage": "https://github.com/ricksinclair/ctcomp#readme"
+}
