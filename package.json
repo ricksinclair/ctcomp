@@ -1,7 +1,6 @@
 {
   "name": "ctcomp",
-
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A util to make react tsx components with scss modules quickly",
   "main": "ctcomp.js",
   "scripts": {
@@ -12,7 +11,7 @@
     "url": "git+https://github.com/ricksinclair/ctcomp.git"
   },
   "bin": {
-    "ctcomp": "./bin/ctcomp.min.js"
+    "ctcomp": "./bin/ctcomp.js"
   },
   "keywords": [
     "react",
