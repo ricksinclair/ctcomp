@@ -1,6 +1,6 @@
 {
   "name": "ctcomp",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A util to make react tsx components with scss modules quickly",
   "main": "ctcomp.js",
   "scripts": {
